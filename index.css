@@ -7,12 +7,24 @@ body {
 }
 
 ul, ol {
-    color: rgb(19, 37, 175);
+    color: rgb(28, 23, 53);
     margin-left: 20px;
 }
 
 p {
+
     color: rgb(22, 175, 19);
     font-size: 18px;
     line-height: 1.6;
+}
+img {
+    max-width: 100%;
+    height: 250px;
+    width: 250px;
+}
+h1 {
+    text-align: center;
+    color: rgb(63, 42, 38);
+    font-size: 36px;
+    margin-bottom: 20px;
 }
